@@ -28,7 +28,7 @@ twitter_username: adnahcodes
 github_username:  dev-darrell
 
 # Build settings
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
