@@ -20,9 +20,9 @@
 
 title: Citigems School
 email: citigemstech@gmail.com
-description: Thanks for downloading the Citigems app! \n We're glad you decided to download the Citigems app. It's going to be a great ride as we help you show your kids you're a parent that cares! \n It's good to have you around. Prepare for the ride of your life!
+description: Thanks for downloading the Citigems app! It’s going to be a great ride as we help you show your kids you’re a parent that cares. It’s good to have you around!
 
-baseurl: "`docs" # the subpath of your site, e.g. /blog
+baseurl: "docs" # the subpath of your site, e.g. /blog
 url: "https://citigems-school.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: adnahcodes
 github_username:  dev-darrell
